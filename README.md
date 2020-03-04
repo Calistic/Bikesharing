@@ -1,6 +1,8 @@
 # NYC Citi Bike Analysis 
 This is a summary of the population focused analytic work that I did with the NYC Citi Bike data.
 
+[Link to storyboard](https://public.tableau.com/profile/callisto#!/vizhome/NYC_Citi_Bike2/Story1?publish=yes)
+
 ## Slide Summaries
 ### 1 Central Question
 Purpose: to define the question we are answering. 
